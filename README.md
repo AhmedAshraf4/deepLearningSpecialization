@@ -20,3 +20,25 @@ Each course consists of video lectures, quizzes, and programming assignments. In
 ## Repository Structure
 
 The repository is organized into folders, with each folder corresponding to a specific course in the specialization. Inside each course folder, you will find the assignments and their respective solution files.
+
+├── Course 1 - Neural Networks and Deep Learning
+│ ├── Assignment 1
+│ ├── Assignment 2
+│ ├── ...
+├── Course 2 - Improving Deep Neural Networks
+│ ├── Assignment 1
+│ ├── Assignment 2
+│ ├── ...
+├── ...
+
+## Usage
+
+Feel free to explore the assignments and solutions for each course. If you are also taking the Deep Learning Specialization and working on these assignments, please keep in mind that **copying or submitting these solutions as your own is a violation of the course's Honor Code**. The solutions are provided here for reference and learning purposes only.
+
+## Acknowledgments
+
+I would like to express my gratitude to Andrew Ng and the deeplearning.ai team for creating this excellent Deep Learning Specialization. The assignments have been a valuable learning experience, and I highly recommend taking the course to anyone interested in deep learning.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
