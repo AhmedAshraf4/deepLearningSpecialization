@@ -1,6 +1,6 @@
 # Deep Learning Specialization Assignments
 <p align="center">
-  ![Course Logo]([https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25](https://cdn-images-1.medium.com/max/1200/1*U4bbdzQF9Gzi7qn_P0S92g.png))
+  ![Course Logo](https://cdn-images-1.medium.com/max/1200/1*U4bbdzQF9Gzi7qn_P0S92g.png)
 </p>
 
 Welcome to the repository for my assignments in the Deep Learning Specialization by Andrew Ng! This repository contains my solutions to the programming assignments for each course in the specialization.
