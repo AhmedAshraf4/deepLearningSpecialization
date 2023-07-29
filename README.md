@@ -1,2 +1,23 @@
-# deepLearningSpecialization
-Solutions of deep learning specialization assignments of Andrew-ng course on coursera
+# Deep Learning Specialization Assignments
+
+![Course Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
+
+Welcome to the repository for my assignments in the Deep Learning Specialization by Andrew Ng! This repository contains my solutions to the programming assignments for each course in the specialization.
+
+## Specialization Overview
+
+The Deep Learning Specialization is a comprehensive series of courses offered by deeplearning.ai on Coursera. It covers various aspects of deep learning, including neural networks, deep learning frameworks, and applications such as computer vision and natural language processing.
+
+## Courses
+
+1. Course 1: Neural Networks and Deep Learning
+2. Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
+3. Course 3: Structuring Machine Learning Projects
+4. Course 4: Convolutional Neural Networks
+5. Course 5: Sequence Models
+
+Each course consists of video lectures, quizzes, and programming assignments. In this repository, you will find my solutions for the programming assignments.
+
+## Repository Structure
+
+The repository is organized into folders, with each folder corresponding to a specific course in the specialization. Inside each course folder, you will find the assignments and their respective solution files.
