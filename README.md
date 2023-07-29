@@ -1,7 +1,7 @@
 # Deep Learning Specialization Assignments
   ![Course Logo](https://cdn-images-1.medium.com/max/1200/1*U4bbdzQF9Gzi7qn_P0S92g.png)
 
-Welcome to the repository for my assignments in the Deep Learning Specialization by Andrew Ng! This repository contains my solutions to the programming assignments for each course in the specialization.
+Welcome to the repository for my assignments in the [Deep Learning Specialization by Andrew Ng!](https://www.coursera.org/specializations/deep-learning?fbclid=IwAR2plUoanGF3Fio-m2Tp-yMFKJnhPghd5LEHubUTWuQTxwhRnM3afmHMSlE) This repository contains my solutions to the programming assignments for each course in the specialization.
 
 ## Specialization Overview
 
@@ -20,16 +20,16 @@ Each course consists of video lectures, quizzes, and programming assignments. In
 ## Repository Structure
 
 The repository is organized into folders, with each folder corresponding to a specific course in the specialization. Inside each course folder, you will find the assignments and their respective solution files.
-
-├── Course 1 - Neural Networks and Deep Learning
-│ ├── Assignment 1
-│ ├── Assignment 2
-│ ├── ...
-├── Course 2 - Improving Deep Neural Networks
-│ ├── Assignment 1
-│ ├── Assignment 2
-│ ├── ...
-├── ...
+<br />
+├── Course 1 - Neural Networks and Deep Learning<br />
+│ ├── Assignment 1<br />
+│ ├── Assignment 2<br />
+│ ├── ...<br />
+├── Course 2 - Improving Deep Neural Networks<br />
+│ ├── Assignment 1<br />
+│ ├── Assignment 2<br />
+│ ├── ...<br />
+├── ...<br />
 
 ## Usage
 
