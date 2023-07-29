@@ -20,7 +20,7 @@ Each course consists of video lectures, quizzes, and programming assignments. In
 ## Repository Structure
 
 The repository is organized into folders, with each folder corresponding to a specific course in the specialization. Inside each course folder, you will find the assignments and their respective solution files.
-<br />
+<br /><br />
 ├── Course 1 - Neural Networks and Deep Learning<br />
 │ ├── Assignment 1<br />
 │ ├── Assignment 2<br />
