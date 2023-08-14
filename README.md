@@ -38,7 +38,3 @@ Feel free to explore the assignments and solutions for each course. If you are a
 ## Acknowledgments
 
 I would like to express my gratitude to Andrew Ng and the deeplearning.ai team for creating this excellent Deep Learning Specialization. The assignments have been a valuable learning experience, and I highly recommend taking the course to anyone interested in deep learning.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
